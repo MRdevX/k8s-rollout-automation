@@ -34,7 +34,7 @@ In Kubernetes management, ensuring deployment reliability and consistency is cru
 
 For a detailed guide on how to use this script and understand its benefits, check out the accompanying article on Medium:
 
-Automating Kubernetes Deployment Restarts: A Practical Guide
+[Automating Kubernetes Deployment Restarts: A Practical Guide](https://medium.com/@mrdevx/automating-kubernetes-deployment-restarts-a-practical-guide-8fe90fc53c36)
 
 ## Contribution
 
